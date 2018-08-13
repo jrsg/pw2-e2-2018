@@ -1,2 +1,2 @@
 # Ejercicio 2
-Copia el texto del archivo Himno_Nacional_Mexicano.pdf y pégalo en un nuevo documento HTML5. Utiliza los elementos h1, p, b y br para dar formato al documento HTML y luzca como el archivo PDF.
+Realiza los ajustes necesarios al texto del ejercicio para que su estructura luzca como la del archivo PDF. Utiliza sólo los elementos h1, p, b y br.
